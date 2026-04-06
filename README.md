@@ -72,12 +72,11 @@ done
 
 ---
 
-## 🎯 Public cible
+## 🎯 Niveau
 
 Cours destiné aux élèves de lycée (SNT / spécialité NSI / informatique et gestion) découvrant la programmation via Python et abordant C++ comme second langage compilé.
 
 ---
 
-## 📄 Licence
 
-Usage pédagogique — LPO d'Estournelles de Constant, La Flèche (72).
+👤 Auteur : SERRES Régis - Lycée E de Constant, La Flèche (72) - https://serres-regis-prof-estournelles.github.io/
